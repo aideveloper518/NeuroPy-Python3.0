@@ -25,3 +25,5 @@ Setting callback:a call back can be associated with all the above variables so t
 for eg. to set a callback for attention data the syntax will be setCallBack("attention",callback_function)
 
 #other variables: attention,meditation,rawValue,delta,theta,lowAlpha,highAlpha,lowBeta,highBeta,lowGamma,midGamma, poorSignal and blinkStrength
+
+Thanks.
