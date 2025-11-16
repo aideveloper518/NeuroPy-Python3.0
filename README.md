@@ -26,4 +26,4 @@ for eg. to set a callback for attention data the syntax will be setCallBack("att
 
 #other variables: attention,meditation,rawValue,delta,theta,lowAlpha,highAlpha,lowBeta,highBeta,lowGamma,midGamma, poorSignal and blinkStrength
 
-Thanks.
+Thanks you.
